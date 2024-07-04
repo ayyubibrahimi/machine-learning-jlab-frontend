@@ -1,0 +1,51 @@
+.modelDropdown {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.modelDropdown::after {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: #888;
+  pointer-events: none;
+  font-size: 0.7em;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+}
+
+.modelSelect {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  color: #888;
+  padding: 10px 40px 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 20px;
+  border: 2px solid #888;
+  font-weight: normal;  /* Add this line */
+}
+
+.modelSelect:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+.modelSelect:focus {
+  outline: none;
+}
+
+.modelSelect option {
+  background-color: #fff;
+  color: #333;
+}

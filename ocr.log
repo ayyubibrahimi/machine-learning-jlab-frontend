@@ -1,0 +1,880 @@
+2024-06-05 00:49:46,676 - INFO - Processing file: /tmp/7aaa2f2cbfb9079ac731fa569162012f.pdf
+2024-06-05 00:49:46,676 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 00:49:46,685 - INFO - DocClient created successfully
+2024-06-05 00:49:46,686 - INFO - Calling process() method
+2024-06-05 00:49:51,148 - INFO - Process completed successfully
+2024-06-05 00:49:51,148 - INFO - JSON structure reformatted successfully
+2024-06-05 00:49:51,149 - INFO - Results written to /tmp/ocr_output/batch_1717566586447/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 00:49:51,149 - INFO - DocClient closed successfully
+2024-06-05 01:04:42,184 - INFO - Processing file: /tmp/70341267714e46c8f56a83f76f132b99.pdf
+2024-06-05 01:04:42,185 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:04:42,196 - INFO - DocClient created successfully
+2024-06-05 01:04:42,196 - INFO - Calling process() method
+2024-06-05 01:04:45,445 - INFO - Process completed successfully
+2024-06-05 01:04:45,446 - INFO - JSON structure reformatted successfully
+2024-06-05 01:04:45,446 - INFO - Results written to /tmp/ocr_output/batch_1717567481951/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:04:45,446 - INFO - DocClient closed successfully
+2024-06-05 01:21:01,262 - INFO - Processing file: /tmp/e80a5167690484474ab25251811fefdf.pdf
+2024-06-05 01:21:01,262 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:21:01,271 - INFO - DocClient created successfully
+2024-06-05 01:21:01,271 - INFO - Calling process() method
+2024-06-05 01:21:04,648 - INFO - Process completed successfully
+2024-06-05 01:21:04,648 - INFO - JSON structure reformatted successfully
+2024-06-05 01:21:04,649 - INFO - Results written to /tmp/ocr_output/batch_1717568461061/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:21:04,649 - INFO - DocClient closed successfully
+2024-06-05 01:24:14,599 - INFO - Processing file: /tmp/0ec089820728f7f54ad153d64040098f.pdf
+2024-06-05 01:24:14,600 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:24:14,609 - INFO - DocClient created successfully
+2024-06-05 01:24:14,609 - INFO - Calling process() method
+2024-06-05 01:24:17,740 - INFO - Process completed successfully
+2024-06-05 01:24:17,740 - INFO - JSON structure reformatted successfully
+2024-06-05 01:24:17,740 - INFO - Results written to /tmp/ocr_output/batch_1717568654362/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:24:17,741 - INFO - DocClient closed successfully
+2024-06-05 01:25:53,005 - INFO - Processing file: /tmp/8132945b8b33ba5232f8c6e350b7c0bd.pdf
+2024-06-05 01:25:53,006 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:25:53,015 - INFO - DocClient created successfully
+2024-06-05 01:25:53,015 - INFO - Calling process() method
+2024-06-05 01:25:56,278 - INFO - Process completed successfully
+2024-06-05 01:25:56,278 - INFO - JSON structure reformatted successfully
+2024-06-05 01:25:56,279 - INFO - Results written to /tmp/ocr_output/batch_1717568752802/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:25:56,279 - INFO - DocClient closed successfully
+2024-06-05 01:29:29,191 - INFO - Processing file: /tmp/7dbbfe5b1dd0ba0deaee5eaa4247d6cf.pdf
+2024-06-05 01:29:29,191 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:29:29,201 - INFO - DocClient created successfully
+2024-06-05 01:29:29,201 - INFO - Calling process() method
+2024-06-05 01:29:32,398 - INFO - Process completed successfully
+2024-06-05 01:29:32,398 - INFO - JSON structure reformatted successfully
+2024-06-05 01:29:32,399 - INFO - Results written to /tmp/ocr_output/batch_1717568968969/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:29:32,399 - INFO - DocClient closed successfully
+2024-06-05 01:31:34,559 - INFO - Processing file: /tmp/20c1bcc16745b86e72edce49192c9929.pdf
+2024-06-05 01:31:34,559 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:31:34,570 - INFO - DocClient created successfully
+2024-06-05 01:31:34,570 - INFO - Calling process() method
+2024-06-05 01:31:38,074 - INFO - Process completed successfully
+2024-06-05 01:31:38,075 - INFO - JSON structure reformatted successfully
+2024-06-05 01:31:38,077 - INFO - Results written to /tmp/ocr_output/batch_1717569094351/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:31:38,078 - INFO - DocClient closed successfully
+2024-06-05 01:33:11,800 - INFO - Processing file: /tmp/a1b957ec82583862ec29fa5141c75590.pdf
+2024-06-05 01:33:11,800 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:33:11,811 - INFO - DocClient created successfully
+2024-06-05 01:33:11,811 - INFO - Calling process() method
+2024-06-05 01:33:14,974 - INFO - Process completed successfully
+2024-06-05 01:33:14,974 - INFO - JSON structure reformatted successfully
+2024-06-05 01:33:14,975 - INFO - Results written to /tmp/ocr_output/batch_1717569191568/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:33:14,975 - INFO - DocClient closed successfully
+2024-06-05 01:37:23,677 - INFO - Processing file: /tmp/72c7fea8855d63d30c4c407e986c0d17.pdf
+2024-06-05 01:37:23,678 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 01:37:23,689 - INFO - DocClient created successfully
+2024-06-05 01:37:23,689 - INFO - Calling process() method
+2024-06-05 01:37:26,974 - INFO - Process completed successfully
+2024-06-05 01:37:26,974 - INFO - JSON structure reformatted successfully
+2024-06-05 01:37:26,974 - INFO - Results written to /tmp/ocr_output/batch_1717569443486/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 01:37:26,974 - INFO - DocClient closed successfully
+2024-06-05 11:52:09,555 - INFO - Processing file: /tmp/b3ffaed849823478e7da0841d517be9a.pdf
+2024-06-05 11:52:09,555 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 11:52:09,572 - INFO - DocClient created successfully
+2024-06-05 11:52:09,572 - INFO - Calling process() method
+2024-06-05 11:52:36,784 - INFO - Process completed successfully
+2024-06-05 11:52:36,785 - INFO - JSON structure reformatted successfully
+2024-06-05 11:52:36,786 - INFO - Results written to /tmp/ocr_output/batch_1717606329367/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 11:52:36,786 - INFO - DocClient closed successfully
+2024-06-05 11:54:03,406 - INFO - Processing file: /tmp/4ac1cbb023e0bfadec7f265b9fc07b65.pdf
+2024-06-05 11:54:03,406 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 11:54:03,416 - INFO - DocClient created successfully
+2024-06-05 11:54:03,416 - INFO - Calling process() method
+2024-06-05 11:54:08,940 - INFO - Process completed successfully
+2024-06-05 11:54:08,940 - INFO - JSON structure reformatted successfully
+2024-06-05 11:54:08,941 - INFO - Results written to /tmp/ocr_output/batch_1717606443179/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 11:54:08,941 - INFO - DocClient closed successfully
+2024-06-05 11:55:00,761 - INFO - Processing file: /tmp/7f9b22a17ac5bdfc9ea19c39a28dcd0b.pdf
+2024-06-05 11:55:00,762 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 11:55:00,771 - INFO - DocClient created successfully
+2024-06-05 11:55:00,771 - INFO - Calling process() method
+2024-06-05 11:55:17,420 - INFO - Process completed successfully
+2024-06-05 11:55:17,420 - INFO - JSON structure reformatted successfully
+2024-06-05 11:55:17,420 - INFO - Results written to /tmp/ocr_output/batch_1717606500575/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 11:55:17,420 - INFO - DocClient closed successfully
+2024-06-05 11:57:17,261 - INFO - Processing file: /tmp/271324d500702c712ea68dc8ec107b15.pdf
+2024-06-05 11:57:17,261 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 11:57:17,270 - INFO - DocClient created successfully
+2024-06-05 11:57:17,270 - INFO - Calling process() method
+2024-06-05 11:57:25,358 - INFO - Process completed successfully
+2024-06-05 11:57:25,358 - INFO - JSON structure reformatted successfully
+2024-06-05 11:57:25,359 - INFO - Results written to /tmp/ocr_output/batch_1717606637060/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 11:57:25,359 - INFO - DocClient closed successfully
+2024-06-05 11:58:14,745 - INFO - Processing file: /tmp/cf07302c99e1bfbdaf33fa157be1868e.pdf
+2024-06-05 11:58:14,746 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 11:58:14,762 - INFO - DocClient created successfully
+2024-06-05 11:58:14,762 - INFO - Calling process() method
+2024-06-05 11:58:30,115 - INFO - Process completed successfully
+2024-06-05 11:58:30,115 - INFO - JSON structure reformatted successfully
+2024-06-05 11:58:30,116 - INFO - Results written to /tmp/ocr_output/batch_1717606694527/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 11:58:30,116 - INFO - DocClient closed successfully
+2024-06-05 13:39:18,627 - INFO - Processing file: /tmp/2ce7bb47e704267d64b63095d694cdab.pdf
+2024-06-05 13:39:18,627 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 13:39:18,640 - INFO - DocClient created successfully
+2024-06-05 13:39:18,640 - INFO - Calling process() method
+2024-06-05 13:39:22,060 - INFO - Process completed successfully
+2024-06-05 13:39:22,060 - INFO - JSON structure reformatted successfully
+2024-06-05 13:39:22,061 - INFO - Results written to /tmp/ocr_output/batch_1717612758391/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 13:39:22,061 - INFO - DocClient closed successfully
+2024-06-05 13:45:31,716 - INFO - Processing file: /tmp/436f5b7e84445c2621a36ee2a48fe204.pdf
+2024-06-05 13:45:31,717 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 13:45:31,727 - INFO - DocClient created successfully
+2024-06-05 13:45:31,727 - INFO - Calling process() method
+2024-06-05 13:45:34,942 - INFO - Process completed successfully
+2024-06-05 13:45:34,942 - INFO - JSON structure reformatted successfully
+2024-06-05 13:45:34,943 - INFO - Results written to /tmp/ocr_output/batch_1717613131494/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 13:45:34,943 - INFO - DocClient closed successfully
+2024-06-05 13:54:19,073 - INFO - Processing file: /tmp/be28d75f8bf9041b95acc88ab8e6d60b.pdf
+2024-06-05 13:54:19,073 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 13:54:19,083 - INFO - DocClient created successfully
+2024-06-05 13:54:19,083 - INFO - Calling process() method
+2024-06-05 13:54:22,264 - INFO - Process completed successfully
+2024-06-05 13:54:22,264 - INFO - JSON structure reformatted successfully
+2024-06-05 13:54:22,264 - INFO - Results written to /tmp/ocr_output/batch_1717613658867/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 13:54:22,264 - INFO - DocClient closed successfully
+2024-06-05 14:02:36,888 - INFO - Processing file: /tmp/c25c3224007180685eb42da13e5d3f8f.pdf
+2024-06-05 14:02:36,888 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 14:02:36,898 - INFO - DocClient created successfully
+2024-06-05 14:02:36,898 - INFO - Calling process() method
+2024-06-05 14:02:41,378 - INFO - Process completed successfully
+2024-06-05 14:02:41,379 - INFO - JSON structure reformatted successfully
+2024-06-05 14:02:41,380 - INFO - Results written to /tmp/ocr_output/batch_1717614156670/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 14:02:41,380 - INFO - DocClient closed successfully
+2024-06-05 14:18:37,736 - INFO - Processing file: /tmp/e87a5caba8abca3d0521ef4a47bf85bd.pdf
+2024-06-05 14:18:37,736 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 14:18:37,747 - INFO - DocClient created successfully
+2024-06-05 14:18:37,747 - INFO - Calling process() method
+2024-06-05 14:18:41,094 - INFO - Process completed successfully
+2024-06-05 14:18:41,094 - INFO - JSON structure reformatted successfully
+2024-06-05 14:18:41,095 - INFO - Results written to /tmp/ocr_output/batch_1717615117480/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 14:18:41,095 - INFO - DocClient closed successfully
+2024-06-05 14:24:21,344 - INFO - Processing file: /tmp/bced1e343a64fb515d06279ac1ad1bb3.pdf
+2024-06-05 14:24:21,344 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 14:24:21,353 - INFO - DocClient created successfully
+2024-06-05 14:24:21,354 - INFO - Calling process() method
+2024-06-05 14:24:25,718 - INFO - Process completed successfully
+2024-06-05 14:24:25,719 - INFO - JSON structure reformatted successfully
+2024-06-05 14:24:25,719 - INFO - Results written to /tmp/ocr_output/batch_1717615461151/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 14:24:25,720 - INFO - DocClient closed successfully
+2024-06-05 14:29:42,064 - INFO - Processing file: /tmp/96c5d4d8cc1d2e473a7d3b9d0695c95b.pdf
+2024-06-05 14:29:42,065 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 14:29:42,075 - INFO - DocClient created successfully
+2024-06-05 14:29:42,075 - INFO - Calling process() method
+2024-06-05 14:29:45,376 - INFO - Process completed successfully
+2024-06-05 14:29:45,377 - INFO - JSON structure reformatted successfully
+2024-06-05 14:29:45,378 - INFO - Results written to /tmp/ocr_output/batch_1717615781864/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 14:29:45,378 - INFO - DocClient closed successfully
+2024-06-05 14:39:05,173 - INFO - Processing file: /tmp/5a66a99f6d82688e9c09f44e3dc9818d.pdf
+2024-06-05 14:39:05,173 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 14:39:05,182 - INFO - DocClient created successfully
+2024-06-05 14:39:05,182 - INFO - Calling process() method
+2024-06-05 14:39:08,489 - INFO - Process completed successfully
+2024-06-05 14:39:08,490 - INFO - JSON structure reformatted successfully
+2024-06-05 14:39:08,490 - INFO - Results written to /tmp/ocr_output/batch_1717616344938/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 14:39:08,491 - INFO - DocClient closed successfully
+2024-06-05 14:53:14,969 - INFO - Processing file: /tmp/bc21af39ee9b489f38a0cbbd7dde3f3a.pdf
+2024-06-05 14:53:14,970 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 14:53:14,979 - INFO - DocClient created successfully
+2024-06-05 14:53:14,979 - INFO - Calling process() method
+2024-06-05 14:53:19,497 - INFO - Process completed successfully
+2024-06-05 14:53:19,498 - INFO - JSON structure reformatted successfully
+2024-06-05 14:53:19,498 - INFO - Results written to /tmp/ocr_output/batch_1717617194732/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 14:53:19,498 - INFO - DocClient closed successfully
+2024-06-05 15:00:03,385 - INFO - Processing file: /tmp/fe4406fd36375fd71237642aa20890d2.pdf
+2024-06-05 15:00:03,386 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:00:03,397 - INFO - DocClient created successfully
+2024-06-05 15:00:03,397 - INFO - Calling process() method
+2024-06-05 15:00:06,599 - INFO - Process completed successfully
+2024-06-05 15:00:06,599 - INFO - JSON structure reformatted successfully
+2024-06-05 15:00:06,600 - INFO - Results written to /tmp/ocr_output/batch_1717617603182/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:00:06,601 - INFO - DocClient closed successfully
+2024-06-05 15:16:39,322 - INFO - Processing file: /tmp/cb195b5cedafaf830710fbd6ca11ff26.pdf
+2024-06-05 15:16:39,322 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:16:39,334 - INFO - DocClient created successfully
+2024-06-05 15:16:39,334 - INFO - Calling process() method
+2024-06-05 15:16:43,851 - INFO - Process completed successfully
+2024-06-05 15:16:43,852 - INFO - JSON structure reformatted successfully
+2024-06-05 15:16:43,852 - INFO - Results written to /tmp/ocr_output/batch_1717618599081/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:16:43,852 - INFO - DocClient closed successfully
+2024-06-05 15:23:10,394 - INFO - Processing file: /tmp/a28853cfbbf3e62bbdc114ba6fef72b2.pdf
+2024-06-05 15:23:10,394 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:23:10,404 - INFO - DocClient created successfully
+2024-06-05 15:23:10,404 - INFO - Calling process() method
+2024-06-05 15:23:13,631 - INFO - Process completed successfully
+2024-06-05 15:23:13,632 - INFO - JSON structure reformatted successfully
+2024-06-05 15:23:13,632 - INFO - Results written to /tmp/ocr_output/batch_1717618990180/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:23:13,633 - INFO - DocClient closed successfully
+2024-06-05 15:26:24,213 - INFO - Processing file: /tmp/9527049efb50335f3e12a4aec150ad2b.pdf
+2024-06-05 15:26:24,213 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:26:24,223 - INFO - DocClient created successfully
+2024-06-05 15:26:24,223 - INFO - Calling process() method
+2024-06-05 15:26:27,554 - INFO - Process completed successfully
+2024-06-05 15:26:27,554 - INFO - JSON structure reformatted successfully
+2024-06-05 15:26:27,554 - INFO - Results written to /tmp/ocr_output/batch_1717619183970/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:26:27,554 - INFO - DocClient closed successfully
+2024-06-05 15:34:35,470 - INFO - Processing file: /tmp/760a6cb91528beafa6f17229edfed84c.pdf
+2024-06-05 15:34:35,470 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:34:35,481 - INFO - DocClient created successfully
+2024-06-05 15:34:35,481 - INFO - Calling process() method
+2024-06-05 15:34:38,618 - INFO - Process completed successfully
+2024-06-05 15:34:38,618 - INFO - JSON structure reformatted successfully
+2024-06-05 15:34:38,618 - INFO - Results written to /tmp/ocr_output/batch_1717619675269/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:34:38,619 - INFO - DocClient closed successfully
+2024-06-05 15:40:49,582 - INFO - Processing file: /tmp/a074c4141660be0954b203f0dcf3261f.pdf
+2024-06-05 15:40:49,583 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:40:49,595 - INFO - DocClient created successfully
+2024-06-05 15:40:49,595 - INFO - Calling process() method
+2024-06-05 15:40:52,926 - INFO - Process completed successfully
+2024-06-05 15:40:52,926 - INFO - JSON structure reformatted successfully
+2024-06-05 15:40:52,927 - INFO - Results written to /tmp/ocr_output/batch_1717620049341/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:40:52,927 - INFO - DocClient closed successfully
+2024-06-05 15:48:54,134 - INFO - Processing file: /tmp/9bb7034fe196b050620eb29f49a3b525.pdf
+2024-06-05 15:48:54,134 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:48:54,145 - INFO - DocClient created successfully
+2024-06-05 15:48:54,145 - INFO - Calling process() method
+2024-06-05 15:48:57,504 - INFO - Process completed successfully
+2024-06-05 15:48:57,504 - INFO - JSON structure reformatted successfully
+2024-06-05 15:48:57,505 - INFO - Results written to /tmp/ocr_output/batch_1717620533926/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:48:57,505 - INFO - DocClient closed successfully
+2024-06-05 15:52:51,107 - INFO - Processing file: /tmp/28fc0eff70e8f9503bf04034e7a94fef.pdf
+2024-06-05 15:52:51,107 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:52:51,118 - INFO - DocClient created successfully
+2024-06-05 15:52:51,118 - INFO - Calling process() method
+2024-06-05 15:52:54,304 - INFO - Process completed successfully
+2024-06-05 15:52:54,305 - INFO - JSON structure reformatted successfully
+2024-06-05 15:52:54,306 - INFO - Results written to /tmp/ocr_output/batch_1717620770874/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:52:54,306 - INFO - DocClient closed successfully
+2024-06-05 15:55:25,686 - INFO - Processing file: /tmp/05c625bbf84408088fc18faac76c73b5.pdf
+2024-06-05 15:55:25,687 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:55:25,697 - INFO - DocClient created successfully
+2024-06-05 15:55:25,697 - INFO - Calling process() method
+2024-06-05 15:55:28,964 - INFO - Process completed successfully
+2024-06-05 15:55:28,964 - INFO - JSON structure reformatted successfully
+2024-06-05 15:55:28,965 - INFO - Results written to /tmp/ocr_output/batch_1717620925473/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:55:28,965 - INFO - DocClient closed successfully
+2024-06-05 15:58:45,679 - INFO - Processing file: /tmp/60807150fc4ba9c5adfb4910e40374f1.pdf
+2024-06-05 15:58:45,679 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 15:58:45,688 - INFO - DocClient created successfully
+2024-06-05 15:58:45,688 - INFO - Calling process() method
+2024-06-05 15:58:48,886 - INFO - Process completed successfully
+2024-06-05 15:58:48,886 - INFO - JSON structure reformatted successfully
+2024-06-05 15:58:48,887 - INFO - Results written to /tmp/ocr_output/batch_1717621125468/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 15:58:48,887 - INFO - DocClient closed successfully
+2024-06-05 16:02:39,756 - INFO - Processing file: /tmp/bf48d8a80962b7d070b30951ff888515.pdf
+2024-06-05 16:02:39,756 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:02:39,766 - INFO - DocClient created successfully
+2024-06-05 16:02:39,766 - INFO - Calling process() method
+2024-06-05 16:02:43,071 - INFO - Process completed successfully
+2024-06-05 16:02:43,071 - INFO - JSON structure reformatted successfully
+2024-06-05 16:02:43,072 - INFO - Results written to /tmp/ocr_output/batch_1717621359520/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:02:43,072 - INFO - DocClient closed successfully
+2024-06-05 16:13:39,279 - INFO - Processing file: /tmp/05c3c12b2375712e361ee26c3a1ecbcc.pdf
+2024-06-05 16:13:39,279 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:13:39,290 - INFO - DocClient created successfully
+2024-06-05 16:13:39,290 - INFO - Calling process() method
+2024-06-05 16:13:43,746 - INFO - Process completed successfully
+2024-06-05 16:13:43,746 - INFO - JSON structure reformatted successfully
+2024-06-05 16:13:43,747 - INFO - Results written to /tmp/ocr_output/batch_1717622019075/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:13:43,747 - INFO - DocClient closed successfully
+2024-06-05 16:24:42,537 - INFO - Processing file: /tmp/05d909afad4c16998642d150f99c7237.pdf
+2024-06-05 16:24:42,537 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:24:42,547 - INFO - DocClient created successfully
+2024-06-05 16:24:42,547 - INFO - Calling process() method
+2024-06-05 16:24:46,996 - INFO - Process completed successfully
+2024-06-05 16:24:46,996 - INFO - JSON structure reformatted successfully
+2024-06-05 16:24:46,997 - INFO - Results written to /tmp/ocr_output/batch_1717622682292/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:24:46,997 - INFO - DocClient closed successfully
+2024-06-05 16:31:36,488 - INFO - Processing file: /tmp/b2625a6e84e05ed5959b4ebf6131a16d.pdf
+2024-06-05 16:31:36,488 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:31:36,498 - INFO - DocClient created successfully
+2024-06-05 16:31:36,499 - INFO - Calling process() method
+2024-06-05 16:31:40,892 - INFO - Process completed successfully
+2024-06-05 16:31:40,892 - INFO - JSON structure reformatted successfully
+2024-06-05 16:31:40,893 - INFO - Results written to /tmp/ocr_output/batch_1717623096278/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:31:40,893 - INFO - DocClient closed successfully
+2024-06-05 16:37:29,062 - INFO - Processing file: /tmp/4312d264a58d591f313855fdf3cf68d4.pdf
+2024-06-05 16:37:29,062 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:37:29,072 - INFO - DocClient created successfully
+2024-06-05 16:37:29,073 - INFO - Calling process() method
+2024-06-05 16:37:33,413 - INFO - Process completed successfully
+2024-06-05 16:37:33,413 - INFO - JSON structure reformatted successfully
+2024-06-05 16:37:33,414 - INFO - Results written to /tmp/ocr_output/batch_1717623448791/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:37:33,414 - INFO - DocClient closed successfully
+2024-06-05 16:41:19,067 - INFO - Processing file: /tmp/875952c32948153b6fa52c9a70089788.pdf
+2024-06-05 16:41:19,067 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:41:19,078 - INFO - DocClient created successfully
+2024-06-05 16:41:19,078 - INFO - Calling process() method
+2024-06-05 16:41:22,420 - INFO - Process completed successfully
+2024-06-05 16:41:22,421 - INFO - JSON structure reformatted successfully
+2024-06-05 16:41:22,421 - INFO - Results written to /tmp/ocr_output/batch_1717623678866/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:41:22,422 - INFO - DocClient closed successfully
+2024-06-05 16:46:36,665 - INFO - Processing file: /tmp/ee3d05fcc46b798e889266363a03e48a.pdf
+2024-06-05 16:46:36,665 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:46:36,678 - INFO - DocClient created successfully
+2024-06-05 16:46:36,678 - INFO - Calling process() method
+2024-06-05 16:46:40,147 - INFO - Process completed successfully
+2024-06-05 16:46:40,147 - INFO - JSON structure reformatted successfully
+2024-06-05 16:46:40,147 - INFO - Results written to /tmp/ocr_output/batch_1717623996432/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:46:40,147 - INFO - DocClient closed successfully
+2024-06-05 16:49:53,777 - INFO - Processing file: /tmp/ebd82455bb3146ed793c03a6083e04b2.pdf
+2024-06-05 16:49:53,778 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:49:53,788 - INFO - DocClient created successfully
+2024-06-05 16:49:53,788 - INFO - Calling process() method
+2024-06-05 16:49:56,967 - INFO - Process completed successfully
+2024-06-05 16:49:56,967 - INFO - JSON structure reformatted successfully
+2024-06-05 16:49:56,968 - INFO - Results written to /tmp/ocr_output/batch_1717624193571/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:49:56,968 - INFO - DocClient closed successfully
+2024-06-05 16:56:05,030 - INFO - Processing file: /tmp/cd618f82f36b3b85be86ca8c6793ff3c.pdf
+2024-06-05 16:56:05,030 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 16:56:05,042 - INFO - DocClient created successfully
+2024-06-05 16:56:05,042 - INFO - Calling process() method
+2024-06-05 16:56:08,266 - INFO - Process completed successfully
+2024-06-05 16:56:08,267 - INFO - JSON structure reformatted successfully
+2024-06-05 16:56:08,267 - INFO - Results written to /tmp/ocr_output/batch_1717624564852/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 16:56:08,267 - INFO - DocClient closed successfully
+2024-06-05 17:00:26,379 - INFO - Processing file: /tmp/d211f5c00e45325740337bd2c4a50e57.pdf
+2024-06-05 17:00:26,380 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:00:26,389 - INFO - DocClient created successfully
+2024-06-05 17:00:26,389 - INFO - Calling process() method
+2024-06-05 17:00:30,580 - INFO - Process completed successfully
+2024-06-05 17:00:30,580 - INFO - JSON structure reformatted successfully
+2024-06-05 17:00:30,581 - INFO - Results written to /tmp/ocr_output/batch_1717624826158/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:00:30,581 - INFO - DocClient closed successfully
+2024-06-05 17:03:29,302 - INFO - Processing file: /tmp/1b733f28756052c48e61965241eb88f7.pdf
+2024-06-05 17:03:29,302 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:03:29,313 - INFO - DocClient created successfully
+2024-06-05 17:03:29,314 - INFO - Calling process() method
+2024-06-05 17:03:32,535 - INFO - Process completed successfully
+2024-06-05 17:03:32,536 - INFO - JSON structure reformatted successfully
+2024-06-05 17:03:32,536 - INFO - Results written to /tmp/ocr_output/batch_1717625009081/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:03:32,536 - INFO - DocClient closed successfully
+2024-06-05 17:09:27,380 - INFO - Processing file: /tmp/01b714295ecdc9190decc6a87219be50.pdf
+2024-06-05 17:09:27,381 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:09:27,390 - INFO - DocClient created successfully
+2024-06-05 17:09:27,390 - INFO - Calling process() method
+2024-06-05 17:09:30,816 - INFO - Process completed successfully
+2024-06-05 17:09:30,816 - INFO - JSON structure reformatted successfully
+2024-06-05 17:09:30,817 - INFO - Results written to /tmp/ocr_output/batch_1717625367146/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:09:30,817 - INFO - DocClient closed successfully
+2024-06-05 17:13:10,840 - INFO - Processing file: /tmp/3e22db0bc9e862435f1b01ff3c6c280a.pdf
+2024-06-05 17:13:10,840 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:13:10,852 - INFO - DocClient created successfully
+2024-06-05 17:13:10,852 - INFO - Calling process() method
+2024-06-05 17:13:14,795 - INFO - Process completed successfully
+2024-06-05 17:13:14,796 - INFO - JSON structure reformatted successfully
+2024-06-05 17:13:14,796 - INFO - Results written to /tmp/ocr_output/batch_1717625590622/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:13:14,796 - INFO - DocClient closed successfully
+2024-06-05 17:16:12,381 - INFO - Processing file: /tmp/388d80e69effabd117dfeff3a1d85e01.pdf
+2024-06-05 17:16:12,381 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:16:12,393 - INFO - DocClient created successfully
+2024-06-05 17:16:12,393 - INFO - Calling process() method
+2024-06-05 17:16:16,072 - INFO - Process completed successfully
+2024-06-05 17:16:16,072 - INFO - JSON structure reformatted successfully
+2024-06-05 17:16:16,072 - INFO - Results written to /tmp/ocr_output/batch_1717625772137/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:16:16,072 - INFO - DocClient closed successfully
+2024-06-05 17:20:22,766 - INFO - Processing file: /tmp/ba71c306b692ba4cbb5013b9b1a6b190.pdf
+2024-06-05 17:20:22,766 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:20:22,777 - INFO - DocClient created successfully
+2024-06-05 17:20:22,777 - INFO - Calling process() method
+2024-06-05 17:20:26,049 - INFO - Process completed successfully
+2024-06-05 17:20:26,049 - INFO - JSON structure reformatted successfully
+2024-06-05 17:20:26,050 - INFO - Results written to /tmp/ocr_output/batch_1717626022543/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:20:26,050 - INFO - DocClient closed successfully
+2024-06-05 17:25:45,305 - INFO - Processing file: /tmp/d761a3973454a1a7c0819d6557545788.pdf
+2024-06-05 17:25:45,305 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:25:45,316 - INFO - DocClient created successfully
+2024-06-05 17:25:45,316 - INFO - Calling process() method
+2024-06-05 17:25:48,991 - INFO - Process completed successfully
+2024-06-05 17:25:48,991 - INFO - JSON structure reformatted successfully
+2024-06-05 17:25:48,992 - INFO - Results written to /tmp/ocr_output/batch_1717626345060/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:25:48,992 - INFO - DocClient closed successfully
+2024-06-05 17:31:07,554 - INFO - Processing file: /tmp/1830bf163748dd37b471ba34c15fb671.pdf
+2024-06-05 17:31:07,554 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 17:31:07,565 - INFO - DocClient created successfully
+2024-06-05 17:31:07,565 - INFO - Calling process() method
+2024-06-05 17:31:10,942 - INFO - Process completed successfully
+2024-06-05 17:31:10,942 - INFO - JSON structure reformatted successfully
+2024-06-05 17:31:10,943 - INFO - Results written to /tmp/ocr_output/batch_1717626667336/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 17:31:10,943 - INFO - DocClient closed successfully
+2024-06-05 18:45:58,003 - INFO - Processing file: /tmp/a886302f55b6611479627e18fde2674c.pdf
+2024-06-05 18:45:58,004 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 18:45:58,017 - INFO - DocClient created successfully
+2024-06-05 18:45:58,017 - INFO - Calling process() method
+2024-06-05 18:46:01,590 - INFO - Process completed successfully
+2024-06-05 18:46:01,590 - INFO - JSON structure reformatted successfully
+2024-06-05 18:46:01,591 - INFO - Results written to /tmp/ocr_output/batch_1717631157721/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 18:46:01,591 - INFO - DocClient closed successfully
+2024-06-05 18:52:37,921 - INFO - Processing file: /tmp/cfd0d689743f2a88c824c106e4bcd3e2.pdf
+2024-06-05 18:52:37,921 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 18:52:37,931 - INFO - DocClient created successfully
+2024-06-05 18:52:37,931 - INFO - Calling process() method
+2024-06-05 18:52:41,122 - INFO - Process completed successfully
+2024-06-05 18:52:41,123 - INFO - JSON structure reformatted successfully
+2024-06-05 18:52:41,123 - INFO - Results written to /tmp/ocr_output/batch_1717631557727/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 18:52:41,123 - INFO - DocClient closed successfully
+2024-06-05 19:00:08,297 - INFO - Processing file: /tmp/be2ed887bcb83071a364f3ea1b1087af.pdf
+2024-06-05 19:00:08,297 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:00:08,307 - INFO - DocClient created successfully
+2024-06-05 19:00:08,307 - INFO - Calling process() method
+2024-06-05 19:00:12,627 - INFO - Process completed successfully
+2024-06-05 19:00:12,627 - INFO - JSON structure reformatted successfully
+2024-06-05 19:00:12,628 - INFO - Results written to /tmp/ocr_output/batch_1717632008069/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:00:12,628 - INFO - DocClient closed successfully
+2024-06-05 19:03:31,761 - INFO - Processing file: /tmp/b37f9a856a7dfdc7c0ee434d617d2b02.pdf
+2024-06-05 19:03:31,761 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:03:31,771 - INFO - DocClient created successfully
+2024-06-05 19:03:31,771 - INFO - Calling process() method
+2024-06-05 19:03:35,139 - INFO - Process completed successfully
+2024-06-05 19:03:35,140 - INFO - JSON structure reformatted successfully
+2024-06-05 19:03:35,140 - INFO - Results written to /tmp/ocr_output/batch_1717632211553/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:03:35,140 - INFO - DocClient closed successfully
+2024-06-05 19:13:34,296 - INFO - Processing file: /tmp/c1ce6de8f084ee47a67413b97c6d5bb7.pdf
+2024-06-05 19:13:34,297 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:13:34,307 - INFO - DocClient created successfully
+2024-06-05 19:13:34,307 - INFO - Calling process() method
+2024-06-05 19:13:37,568 - INFO - Process completed successfully
+2024-06-05 19:13:37,569 - INFO - JSON structure reformatted successfully
+2024-06-05 19:13:37,569 - INFO - Results written to /tmp/ocr_output/batch_1717632814042/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:13:37,569 - INFO - DocClient closed successfully
+2024-06-05 19:19:44,465 - INFO - Processing file: /tmp/e98b11e82f21e0fb6ddcf78d7a84a58f.pdf
+2024-06-05 19:19:44,466 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:19:44,476 - INFO - DocClient created successfully
+2024-06-05 19:19:44,476 - INFO - Calling process() method
+2024-06-05 19:19:47,832 - INFO - Process completed successfully
+2024-06-05 19:19:47,833 - INFO - JSON structure reformatted successfully
+2024-06-05 19:19:47,833 - INFO - Results written to /tmp/ocr_output/batch_1717633184259/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:19:47,833 - INFO - DocClient closed successfully
+2024-06-05 19:27:49,533 - INFO - Processing file: /tmp/05ff0c8e605132389db3c827ef4b5a2a.pdf
+2024-06-05 19:27:49,533 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:27:49,543 - INFO - DocClient created successfully
+2024-06-05 19:27:49,543 - INFO - Calling process() method
+2024-06-05 19:27:52,990 - INFO - Process completed successfully
+2024-06-05 19:27:52,990 - INFO - JSON structure reformatted successfully
+2024-06-05 19:27:52,991 - INFO - Results written to /tmp/ocr_output/batch_1717633669293/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:27:52,991 - INFO - DocClient closed successfully
+2024-06-05 19:33:37,076 - INFO - Processing file: /tmp/e3a21e4958e1cfb13e0a028dad89d018.pdf
+2024-06-05 19:33:37,076 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:33:37,087 - INFO - DocClient created successfully
+2024-06-05 19:33:37,087 - INFO - Calling process() method
+2024-06-05 19:33:40,390 - INFO - Process completed successfully
+2024-06-05 19:33:40,390 - INFO - JSON structure reformatted successfully
+2024-06-05 19:33:40,391 - INFO - Results written to /tmp/ocr_output/batch_1717634016865/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:33:40,391 - INFO - DocClient closed successfully
+2024-06-05 19:37:57,368 - INFO - Processing file: /tmp/f700a266d4e9e4c0f89b5567c2827a39.pdf
+2024-06-05 19:37:57,368 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:37:57,378 - INFO - DocClient created successfully
+2024-06-05 19:37:57,378 - INFO - Calling process() method
+2024-06-05 19:38:00,645 - INFO - Process completed successfully
+2024-06-05 19:38:00,646 - INFO - JSON structure reformatted successfully
+2024-06-05 19:38:00,646 - INFO - Results written to /tmp/ocr_output/batch_1717634277121/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 19:38:00,646 - INFO - DocClient closed successfully
+2024-06-05 19:57:41,239 - INFO - Processing file: /tmp/128f8bbfba6c81b044943ec32f81f993.pdf
+2024-06-05 19:57:41,240 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 19:57:41,253 - INFO - DocClient created successfully
+2024-06-05 19:57:41,253 - INFO - Calling process() method
+2024-06-05 19:58:26,288 - INFO - Process completed successfully
+2024-06-05 19:58:26,288 - INFO - JSON structure reformatted successfully
+2024-06-05 19:58:26,289 - INFO - Results written to /tmp/ocr_output/batch_1717635460987/2017-07-31 Bias Comm118_part_3_Redacted (dragged) 2 (dragged).pdf.json
+2024-06-05 19:58:26,289 - INFO - DocClient closed successfully
+2024-06-05 20:04:06,027 - INFO - Processing file: /tmp/b6a5f16813817ae1b5f345bfaea241c3.pdf
+2024-06-05 20:04:06,028 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:04:06,038 - INFO - DocClient created successfully
+2024-06-05 20:04:06,039 - INFO - Calling process() method
+2024-06-05 20:05:08,452 - INFO - Process completed successfully
+2024-06-05 20:05:08,453 - INFO - JSON structure reformatted successfully
+2024-06-05 20:05:08,454 - INFO - Results written to /tmp/ocr_output/batch_1717635845802/2017-07-31 Bias Comm118_part_3_Redacted (dragged) 2.pdf.json
+2024-06-05 20:05:08,454 - INFO - DocClient closed successfully
+2024-06-05 20:11:55,220 - INFO - Processing file: /tmp/8958d8bf2f8aeada9e4c8e033e1e2b84.pdf
+2024-06-05 20:11:55,221 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:11:55,232 - INFO - DocClient created successfully
+2024-06-05 20:11:55,232 - INFO - Calling process() method
+2024-06-05 20:11:58,458 - INFO - Process completed successfully
+2024-06-05 20:11:58,458 - INFO - JSON structure reformatted successfully
+2024-06-05 20:11:58,459 - INFO - Results written to /tmp/ocr_output/batch_1717636314958/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 20:11:58,459 - INFO - DocClient closed successfully
+2024-06-05 20:12:52,898 - INFO - Processing file: /tmp/ab7d325fb45ea5e549ca59a120e070c9.pdf
+2024-06-05 20:12:52,898 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:12:52,908 - INFO - DocClient created successfully
+2024-06-05 20:12:52,908 - INFO - Calling process() method
+2024-06-05 20:12:58,801 - INFO - Process completed successfully
+2024-06-05 20:12:58,801 - INFO - JSON structure reformatted successfully
+2024-06-05 20:12:58,801 - INFO - Results written to /tmp/ocr_output/batch_1717636372671/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 20:12:58,801 - INFO - DocClient closed successfully
+2024-06-05 20:14:15,589 - INFO - Processing file: /tmp/51e7da5f962fcfa5e7fe77f139271c8b.pdf
+2024-06-05 20:14:15,590 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:14:15,600 - INFO - DocClient created successfully
+2024-06-05 20:14:15,600 - INFO - Calling process() method
+2024-06-05 20:14:18,804 - INFO - Process completed successfully
+2024-06-05 20:14:18,804 - INFO - JSON structure reformatted successfully
+2024-06-05 20:14:18,805 - INFO - Results written to /tmp/ocr_output/batch_1717636455328/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 20:14:18,805 - INFO - DocClient closed successfully
+2024-06-05 20:15:06,979 - INFO - Processing file: /tmp/4a8c028d09e2f262be1176ba6e8b95d1.pdf
+2024-06-05 20:15:06,979 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:15:06,994 - INFO - DocClient created successfully
+2024-06-05 20:15:06,994 - INFO - Calling process() method
+2024-06-05 20:15:13,460 - INFO - Process completed successfully
+2024-06-05 20:15:13,460 - INFO - JSON structure reformatted successfully
+2024-06-05 20:15:13,460 - INFO - Results written to /tmp/ocr_output/batch_1717636506693/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 20:15:13,461 - INFO - DocClient closed successfully
+2024-06-05 20:23:59,518 - INFO - Processing file: /tmp/c51256d4b1841019d934e8608f488d4f.pdf
+2024-06-05 20:23:59,518 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:23:59,528 - INFO - DocClient created successfully
+2024-06-05 20:23:59,528 - INFO - Calling process() method
+2024-06-05 20:24:05,326 - INFO - Process completed successfully
+2024-06-05 20:24:05,326 - INFO - JSON structure reformatted successfully
+2024-06-05 20:24:05,326 - INFO - Results written to /tmp/ocr_output/batch_1717637039286/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 20:24:05,327 - INFO - DocClient closed successfully
+2024-06-05 20:24:58,445 - INFO - Processing file: /tmp/c70101b4b5b3dd30604a7aef6ada7801.pdf
+2024-06-05 20:24:58,445 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:24:58,455 - INFO - DocClient created successfully
+2024-06-05 20:24:58,455 - INFO - Calling process() method
+2024-06-05 20:25:01,667 - INFO - Process completed successfully
+2024-06-05 20:25:01,668 - INFO - JSON structure reformatted successfully
+2024-06-05 20:25:01,668 - INFO - Results written to /tmp/ocr_output/batch_1717637098229/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 20:25:01,668 - INFO - DocClient closed successfully
+2024-06-05 20:30:25,236 - INFO - Processing file: /tmp/5e9f020e18c96e95e0dcc3d995b797d0.pdf
+2024-06-05 20:30:25,236 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:30:25,245 - INFO - DocClient created successfully
+2024-06-05 20:30:25,245 - INFO - Calling process() method
+2024-06-05 20:30:36,754 - INFO - Process completed successfully
+2024-06-05 20:30:36,754 - INFO - JSON structure reformatted successfully
+2024-06-05 20:30:36,755 - INFO - Results written to /tmp/ocr_output/batch_1717637425047/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged).pdf.json
+2024-06-05 20:30:36,755 - INFO - DocClient closed successfully
+2024-06-05 20:35:41,362 - INFO - Processing file: /tmp/c68bd6c03337c9307d8bafa8b655f6d8.pdf
+2024-06-05 20:35:41,362 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:35:41,372 - INFO - DocClient created successfully
+2024-06-05 20:35:41,372 - INFO - Calling process() method
+2024-06-05 20:35:47,078 - INFO - Process completed successfully
+2024-06-05 20:35:47,078 - INFO - JSON structure reformatted successfully
+2024-06-05 20:35:47,079 - INFO - Results written to /tmp/ocr_output/batch_1717637741146/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 20:35:47,079 - INFO - DocClient closed successfully
+2024-06-05 20:36:40,865 - INFO - Processing file: /tmp/4fa7fbad65de7ca805a8c6d036562ad1.pdf
+2024-06-05 20:36:40,866 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:36:40,875 - INFO - DocClient created successfully
+2024-06-05 20:36:40,875 - INFO - Calling process() method
+2024-06-05 20:36:45,247 - INFO - Process completed successfully
+2024-06-05 20:36:45,248 - INFO - JSON structure reformatted successfully
+2024-06-05 20:36:45,249 - INFO - Results written to /tmp/ocr_output/batch_1717637800650/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 20:36:45,249 - INFO - DocClient closed successfully
+2024-06-05 20:38:09,353 - INFO - Processing file: /tmp/eb1b9402b90875e767aa3d5bc126dfd3.pdf
+2024-06-05 20:38:09,354 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:38:09,363 - INFO - DocClient created successfully
+2024-06-05 20:38:09,363 - INFO - Calling process() method
+2024-06-05 20:38:15,098 - INFO - Process completed successfully
+2024-06-05 20:38:15,099 - INFO - JSON structure reformatted successfully
+2024-06-05 20:38:15,099 - INFO - Results written to /tmp/ocr_output/batch_1717637889146/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 20:38:15,099 - INFO - DocClient closed successfully
+2024-06-05 20:39:06,064 - INFO - Processing file: /tmp/91e129447783648a5fe22a96386ce83f.pdf
+2024-06-05 20:39:06,065 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:39:06,077 - INFO - DocClient created successfully
+2024-06-05 20:39:06,077 - INFO - Calling process() method
+2024-06-05 20:39:09,273 - INFO - Process completed successfully
+2024-06-05 20:39:09,273 - INFO - JSON structure reformatted successfully
+2024-06-05 20:39:09,274 - INFO - Results written to /tmp/ocr_output/batch_1717637945809/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 20:39:09,274 - INFO - DocClient closed successfully
+2024-06-05 20:40:21,718 - INFO - Processing file: /tmp/e0e8591fc95fd7e7fc0f78e8d5734082.pdf
+2024-06-05 20:40:21,718 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 20:40:21,728 - INFO - DocClient created successfully
+2024-06-05 20:40:21,728 - INFO - Calling process() method
+2024-06-05 20:41:08,303 - INFO - Process completed successfully
+2024-06-05 20:41:08,303 - INFO - JSON structure reformatted successfully
+2024-06-05 20:41:08,304 - INFO - Results written to /tmp/ocr_output/batch_1717638021479/2017-07-31 Bias Comm118_part_3_Redacted (dragged) 2 (dragged).pdf.json
+2024-06-05 20:41:08,305 - INFO - DocClient closed successfully
+2024-06-05 21:55:37,882 - INFO - Processing file: /tmp/bac58db862b87db8a3645b42fc4b9676.pdf
+2024-06-05 21:55:37,882 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 21:55:37,894 - INFO - DocClient created successfully
+2024-06-05 21:55:37,895 - INFO - Calling process() method
+2024-06-05 21:56:24,543 - INFO - Process completed successfully
+2024-06-05 21:56:24,543 - INFO - JSON structure reformatted successfully
+2024-06-05 21:56:24,545 - INFO - Results written to /tmp/ocr_output/batch_1717642537603/2017-07-31 Bias Comm118_part_3_Redacted (dragged) 2 (dragged).pdf.json
+2024-06-05 21:56:24,545 - INFO - DocClient closed successfully
+2024-06-05 21:58:32,861 - INFO - Processing file: /tmp/d0a5e2a1b1a7f236667b41b9bef1805a.pdf
+2024-06-05 21:58:32,861 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 21:58:32,870 - INFO - DocClient created successfully
+2024-06-05 21:58:32,870 - INFO - Calling process() method
+2024-06-05 21:58:39,621 - INFO - Process completed successfully
+2024-06-05 21:58:39,621 - INFO - JSON structure reformatted successfully
+2024-06-05 21:58:39,621 - INFO - Results written to /tmp/ocr_output/batch_1717642712628/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-05 21:58:39,622 - INFO - DocClient closed successfully
+2024-06-05 21:59:34,474 - INFO - Processing file: /tmp/763f0df8143de2febac46f2765da72f8.pdf
+2024-06-05 21:59:34,475 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-05 21:59:34,484 - INFO - DocClient created successfully
+2024-06-05 21:59:34,484 - INFO - Calling process() method
+2024-06-05 21:59:37,699 - INFO - Process completed successfully
+2024-06-05 21:59:37,699 - INFO - JSON structure reformatted successfully
+2024-06-05 21:59:37,699 - INFO - Results written to /tmp/ocr_output/batch_1717642774235/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-05 21:59:37,699 - INFO - DocClient closed successfully
+2024-06-06 10:50:16,685 - INFO - Processing file: /tmp/37c4ac3f07fd2ea0954cb9231653a222.pdf
+2024-06-06 10:50:16,686 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 10:50:16,695 - INFO - DocClient created successfully
+2024-06-06 10:50:16,696 - INFO - Calling process() method
+2024-06-06 10:50:20,466 - INFO - Process completed successfully
+2024-06-06 10:50:20,466 - INFO - JSON structure reformatted successfully
+2024-06-06 10:50:20,467 - INFO - Results written to /tmp/ocr_output/batch_1717689016482/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 10:50:20,467 - INFO - DocClient closed successfully
+2024-06-06 11:15:36,480 - INFO - Processing file: /tmp/6619c35c5484c59c50ee26aac8b5dd3a.pdf
+2024-06-06 11:15:36,480 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 11:15:36,492 - INFO - DocClient created successfully
+2024-06-06 11:15:36,492 - INFO - Calling process() method
+2024-06-06 11:15:41,616 - INFO - Process completed successfully
+2024-06-06 11:15:41,616 - INFO - JSON structure reformatted successfully
+2024-06-06 11:15:41,617 - INFO - Results written to /tmp/ocr_output/batch_1717690536241/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 11:15:41,617 - INFO - DocClient closed successfully
+2024-06-06 11:57:17,953 - INFO - Processing file: /tmp/17e522e3c1b4ae0c5a7096b019b3ea2c.pdf
+2024-06-06 11:57:17,953 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 11:57:17,966 - INFO - DocClient created successfully
+2024-06-06 11:57:17,966 - INFO - Calling process() method
+2024-06-06 11:57:21,583 - INFO - Process completed successfully
+2024-06-06 11:57:21,583 - INFO - JSON structure reformatted successfully
+2024-06-06 11:57:21,584 - INFO - Results written to /tmp/ocr_output/batch_1717693037726/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 11:57:21,584 - INFO - DocClient closed successfully
+2024-06-06 12:08:42,116 - INFO - Processing file: /tmp/1857283ea93df33f305a54f4a2705a22.pdf
+2024-06-06 12:08:42,116 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 12:08:42,127 - INFO - DocClient created successfully
+2024-06-06 12:08:42,127 - INFO - Calling process() method
+2024-06-06 12:08:45,552 - INFO - Process completed successfully
+2024-06-06 12:08:45,552 - INFO - JSON structure reformatted successfully
+2024-06-06 12:08:45,552 - INFO - Results written to /tmp/ocr_output/batch_1717693721884/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 12:08:45,553 - INFO - DocClient closed successfully
+2024-06-06 12:12:21,331 - INFO - Processing file: /tmp/c706e47fd5ea6e4e25acfb0fd7a704f8.pdf
+2024-06-06 12:12:21,332 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 12:12:21,340 - INFO - DocClient created successfully
+2024-06-06 12:12:21,340 - INFO - Calling process() method
+2024-06-06 12:12:24,700 - INFO - Process completed successfully
+2024-06-06 12:12:24,700 - INFO - JSON structure reformatted successfully
+2024-06-06 12:12:24,701 - INFO - Results written to /tmp/ocr_output/batch_1717693941140/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 12:12:24,701 - INFO - DocClient closed successfully
+2024-06-06 12:17:24,709 - INFO - Processing file: /tmp/aac75df3a4a5542b5b97365bb1fb563e.pdf
+2024-06-06 12:17:24,709 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 12:17:24,719 - INFO - DocClient created successfully
+2024-06-06 12:17:24,720 - INFO - Calling process() method
+2024-06-06 12:17:28,030 - INFO - Process completed successfully
+2024-06-06 12:17:28,030 - INFO - JSON structure reformatted successfully
+2024-06-06 12:17:28,031 - INFO - Results written to /tmp/ocr_output/batch_1717694244509/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 12:17:28,031 - INFO - DocClient closed successfully
+2024-06-06 12:50:57,183 - INFO - Processing file: /tmp/c02b75db413b85c4c63575a5a9f64cb7.pdf
+2024-06-06 12:50:57,183 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 12:50:57,193 - INFO - DocClient created successfully
+2024-06-06 12:50:57,193 - INFO - Calling process() method
+2024-06-06 12:51:00,462 - INFO - Process completed successfully
+2024-06-06 12:51:00,462 - INFO - JSON structure reformatted successfully
+2024-06-06 12:51:00,463 - INFO - Results written to /tmp/ocr_output/batch_1717696256971/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 12:51:00,463 - INFO - DocClient closed successfully
+2024-06-06 13:01:33,013 - INFO - Processing file: /tmp/276bcf9342e3fe3e01b551fb9131c9de.pdf
+2024-06-06 13:01:33,013 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:01:33,023 - INFO - DocClient created successfully
+2024-06-06 13:01:33,023 - INFO - Calling process() method
+2024-06-06 13:01:36,370 - INFO - Process completed successfully
+2024-06-06 13:01:36,371 - INFO - JSON structure reformatted successfully
+2024-06-06 13:01:36,371 - INFO - Results written to /tmp/ocr_output/batch_1717696892720/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:01:36,371 - INFO - DocClient closed successfully
+2024-06-06 13:03:00,859 - INFO - Processing file: /tmp/f95e278b5589fe6536ec8221ffd4888f.pdf
+2024-06-06 13:03:00,860 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:03:00,870 - INFO - DocClient created successfully
+2024-06-06 13:03:00,870 - INFO - Calling process() method
+2024-06-06 13:03:11,019 - INFO - Process completed successfully
+2024-06-06 13:03:11,020 - INFO - JSON structure reformatted successfully
+2024-06-06 13:03:11,020 - INFO - Results written to /tmp/ocr_output/batch_1717696980653/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:03:11,020 - INFO - DocClient closed successfully
+2024-06-06 13:04:41,686 - INFO - Processing file: /tmp/58cab5e961930f949dc29f227306a619.pdf
+2024-06-06 13:04:41,687 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:04:41,696 - INFO - DocClient created successfully
+2024-06-06 13:04:41,696 - INFO - Calling process() method
+2024-06-06 13:04:50,588 - INFO - Process completed successfully
+2024-06-06 13:04:50,589 - INFO - JSON structure reformatted successfully
+2024-06-06 13:04:50,589 - INFO - Results written to /tmp/ocr_output/batch_1717697081474/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged).pdf.json
+2024-06-06 13:04:50,590 - INFO - DocClient closed successfully
+2024-06-06 13:06:39,142 - INFO - Processing file: /tmp/b3bc46a09ee96fd8e8dc9f4322ffadfb.pdf
+2024-06-06 13:06:39,143 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:06:39,152 - INFO - DocClient created successfully
+2024-06-06 13:06:39,152 - INFO - Calling process() method
+2024-06-06 13:06:44,971 - INFO - Process completed successfully
+2024-06-06 13:06:44,971 - INFO - JSON structure reformatted successfully
+2024-06-06 13:06:44,971 - INFO - Results written to /tmp/ocr_output/batch_1717697198909/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:06:44,971 - INFO - DocClient closed successfully
+2024-06-06 13:12:55,535 - INFO - Processing file: /tmp/d3af39a2cbe1984858440d8934741a67.pdf
+2024-06-06 13:12:55,536 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:12:55,546 - INFO - DocClient created successfully
+2024-06-06 13:12:55,546 - INFO - Calling process() method
+2024-06-06 13:13:04,732 - INFO - Process completed successfully
+2024-06-06 13:13:04,732 - INFO - JSON structure reformatted successfully
+2024-06-06 13:13:04,732 - INFO - Results written to /tmp/ocr_output/batch_1717697575251/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged).pdf.json
+2024-06-06 13:13:04,732 - INFO - DocClient closed successfully
+2024-06-06 13:14:52,058 - INFO - Processing file: /tmp/2b4ae25a020f5652b7f79b034da1c14c.pdf
+2024-06-06 13:14:52,058 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:14:52,067 - INFO - DocClient created successfully
+2024-06-06 13:14:52,067 - INFO - Calling process() method
+2024-06-06 13:14:55,251 - INFO - Process completed successfully
+2024-06-06 13:14:55,252 - INFO - JSON structure reformatted successfully
+2024-06-06 13:14:55,252 - INFO - Results written to /tmp/ocr_output/batch_1717697691749/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:14:55,252 - INFO - DocClient closed successfully
+2024-06-06 13:23:45,402 - INFO - Processing file: /tmp/ff8766460f30d6b17c6ccff98a813411.pdf
+2024-06-06 13:23:45,402 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:23:45,411 - INFO - DocClient created successfully
+2024-06-06 13:23:45,411 - INFO - Calling process() method
+2024-06-06 13:23:48,563 - INFO - Process completed successfully
+2024-06-06 13:23:48,564 - INFO - JSON structure reformatted successfully
+2024-06-06 13:23:48,564 - INFO - Results written to /tmp/ocr_output/batch_1717698225202/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:23:48,565 - INFO - DocClient closed successfully
+2024-06-06 13:24:55,195 - INFO - Processing file: /tmp/330b518a1516b00a12d8248a36bf207b.pdf
+2024-06-06 13:24:55,196 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:24:55,206 - INFO - DocClient created successfully
+2024-06-06 13:24:55,206 - INFO - Calling process() method
+2024-06-06 13:25:00,939 - INFO - Process completed successfully
+2024-06-06 13:25:00,939 - INFO - JSON structure reformatted successfully
+2024-06-06 13:25:00,939 - INFO - Results written to /tmp/ocr_output/batch_1717698294982/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:25:00,939 - INFO - DocClient closed successfully
+2024-06-06 13:28:36,380 - INFO - Processing file: /tmp/0e98b0ad44536360fc687f4382949855.pdf
+2024-06-06 13:28:36,380 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:28:36,389 - INFO - DocClient created successfully
+2024-06-06 13:28:36,390 - INFO - Calling process() method
+2024-06-06 13:28:39,515 - INFO - Process completed successfully
+2024-06-06 13:28:39,516 - INFO - JSON structure reformatted successfully
+2024-06-06 13:28:39,516 - INFO - Results written to /tmp/ocr_output/batch_1717698516181/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:28:39,516 - INFO - DocClient closed successfully
+2024-06-06 13:29:49,484 - INFO - Processing file: /tmp/88db20c419de0b00f27ebee099ec77c6.pdf
+2024-06-06 13:29:49,485 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:29:49,493 - INFO - DocClient created successfully
+2024-06-06 13:29:49,493 - INFO - Calling process() method
+2024-06-06 13:29:55,248 - INFO - Process completed successfully
+2024-06-06 13:29:55,248 - INFO - JSON structure reformatted successfully
+2024-06-06 13:29:55,249 - INFO - Results written to /tmp/ocr_output/batch_1717698589247/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:29:55,249 - INFO - DocClient closed successfully
+2024-06-06 13:33:25,145 - INFO - Processing file: /tmp/586a54f9e5d88b4a1090a7c6dae06c25.pdf
+2024-06-06 13:33:25,146 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:33:25,155 - INFO - DocClient created successfully
+2024-06-06 13:33:25,155 - INFO - Calling process() method
+2024-06-06 13:33:28,352 - INFO - Process completed successfully
+2024-06-06 13:33:28,352 - INFO - JSON structure reformatted successfully
+2024-06-06 13:33:28,353 - INFO - Results written to /tmp/ocr_output/batch_1717698804968/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:33:28,353 - INFO - DocClient closed successfully
+2024-06-06 13:34:32,160 - INFO - Processing file: /tmp/8a1878bcad6b26bc83c5b71d497c8bc4.pdf
+2024-06-06 13:34:32,160 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:34:32,172 - INFO - DocClient created successfully
+2024-06-06 13:34:32,172 - INFO - Calling process() method
+2024-06-06 13:34:39,399 - INFO - Process completed successfully
+2024-06-06 13:34:39,400 - INFO - JSON structure reformatted successfully
+2024-06-06 13:34:39,400 - INFO - Results written to /tmp/ocr_output/batch_1717698871958/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:34:39,400 - INFO - DocClient closed successfully
+2024-06-06 13:36:50,665 - INFO - Processing file: /tmp/c434896a296b2d5ce33a7d566b9657ea.pdf
+2024-06-06 13:36:50,665 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:36:50,674 - INFO - DocClient created successfully
+2024-06-06 13:36:50,674 - INFO - Calling process() method
+2024-06-06 13:36:54,971 - INFO - Process completed successfully
+2024-06-06 13:36:54,971 - INFO - JSON structure reformatted successfully
+2024-06-06 13:36:54,972 - INFO - Results written to /tmp/ocr_output/batch_1717699010470/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:36:54,972 - INFO - DocClient closed successfully
+2024-06-06 13:38:21,979 - INFO - Processing file: /tmp/c909e2aaddd3d4cc66ecc16e6e8e251c.pdf
+2024-06-06 13:38:21,980 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:38:21,990 - INFO - DocClient created successfully
+2024-06-06 13:38:21,991 - INFO - Calling process() method
+2024-06-06 13:38:25,157 - INFO - Process completed successfully
+2024-06-06 13:38:25,158 - INFO - JSON structure reformatted successfully
+2024-06-06 13:38:25,158 - INFO - Results written to /tmp/ocr_output/batch_1717699101751/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:38:25,158 - INFO - DocClient closed successfully
+2024-06-06 13:39:33,035 - INFO - Processing file: /tmp/2ca2c451f0b6d0c8978262d2fbcfcac9.pdf
+2024-06-06 13:39:33,036 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:39:33,044 - INFO - DocClient created successfully
+2024-06-06 13:39:33,044 - INFO - Calling process() method
+2024-06-06 13:39:38,617 - INFO - Process completed successfully
+2024-06-06 13:39:38,617 - INFO - JSON structure reformatted successfully
+2024-06-06 13:39:38,617 - INFO - Results written to /tmp/ocr_output/batch_1717699172837/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:39:38,617 - INFO - DocClient closed successfully
+2024-06-06 13:43:01,694 - INFO - Processing file: /tmp/61cc1698931bc9bfacef258a66774897.pdf
+2024-06-06 13:43:01,694 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:43:01,703 - INFO - DocClient created successfully
+2024-06-06 13:43:01,703 - INFO - Calling process() method
+2024-06-06 13:43:05,304 - INFO - Process completed successfully
+2024-06-06 13:43:05,304 - INFO - JSON structure reformatted successfully
+2024-06-06 13:43:05,304 - INFO - Results written to /tmp/ocr_output/batch_1717699381507/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 13:43:05,304 - INFO - DocClient closed successfully
+2024-06-06 13:44:15,687 - INFO - Processing file: /tmp/ab3ec70a8e4e305d600e7f9ee6b35e89.pdf
+2024-06-06 13:44:15,688 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 13:44:15,698 - INFO - DocClient created successfully
+2024-06-06 13:44:15,698 - INFO - Calling process() method
+2024-06-06 13:44:21,715 - INFO - Process completed successfully
+2024-06-06 13:44:21,715 - INFO - JSON structure reformatted successfully
+2024-06-06 13:44:21,715 - INFO - Results written to /tmp/ocr_output/batch_1717699455460/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 13:44:21,715 - INFO - DocClient closed successfully
+2024-06-06 15:15:55,173 - INFO - Processing file: /tmp/784338f99e113cf39d322fa5e503800a.pdf
+2024-06-06 15:15:55,173 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 15:15:55,185 - INFO - DocClient created successfully
+2024-06-06 15:15:55,185 - INFO - Calling process() method
+2024-06-06 15:15:58,546 - INFO - Process completed successfully
+2024-06-06 15:15:58,546 - INFO - JSON structure reformatted successfully
+2024-06-06 15:15:58,547 - INFO - Results written to /tmp/ocr_output/batch_1717704954889/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 15:15:58,547 - INFO - DocClient closed successfully
+2024-06-06 15:18:36,756 - INFO - Processing file: /tmp/5ba33fff6e850373ac0d309227fb5ab3.pdf
+2024-06-06 15:18:36,756 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 15:18:36,766 - INFO - DocClient created successfully
+2024-06-06 15:18:36,766 - INFO - Calling process() method
+2024-06-06 15:18:42,739 - INFO - Process completed successfully
+2024-06-06 15:18:42,739 - INFO - JSON structure reformatted successfully
+2024-06-06 15:18:42,740 - INFO - Results written to /tmp/ocr_output/batch_1717705116511/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 15:18:42,740 - INFO - DocClient closed successfully
+2024-06-06 16:37:54,842 - INFO - Processing file: /tmp/66d6546f95e005a2b2b91fcdd9859c27.pdf
+2024-06-06 16:37:54,843 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 16:37:54,854 - INFO - DocClient created successfully
+2024-06-06 16:37:54,854 - INFO - Calling process() method
+2024-06-06 16:37:58,129 - INFO - Process completed successfully
+2024-06-06 16:37:58,129 - INFO - JSON structure reformatted successfully
+2024-06-06 16:37:58,130 - INFO - Results written to /tmp/ocr_output/batch_1717709874611/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 16:37:58,130 - INFO - DocClient closed successfully
+2024-06-06 16:38:46,650 - INFO - Processing file: /tmp/ea5f0a550493a48c0b9a8b136bf153a3.pdf
+2024-06-06 16:38:46,651 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 16:38:46,659 - INFO - DocClient created successfully
+2024-06-06 16:38:46,659 - INFO - Calling process() method
+2024-06-06 16:38:53,301 - INFO - Process completed successfully
+2024-06-06 16:38:53,301 - INFO - JSON structure reformatted successfully
+2024-06-06 16:38:53,302 - INFO - Results written to /tmp/ocr_output/batch_1717709926435/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-06 16:38:53,302 - INFO - DocClient closed successfully
+2024-06-06 16:40:35,856 - INFO - Processing file: /tmp/c1198f9a066d0b6ec42bf99a853ffe15.pdf
+2024-06-06 16:40:35,857 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-06 16:40:35,867 - INFO - DocClient created successfully
+2024-06-06 16:40:35,867 - INFO - Calling process() method
+2024-06-06 16:40:40,090 - INFO - Process completed successfully
+2024-06-06 16:40:40,090 - INFO - JSON structure reformatted successfully
+2024-06-06 16:40:40,091 - INFO - Results written to /tmp/ocr_output/batch_1717710035620/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-06 16:40:40,091 - INFO - DocClient closed successfully
+2024-06-07 14:25:44,914 - INFO - Processing file: /tmp/8c57c8f88b3c5d730c54cf2c38082304.pdf
+2024-06-07 14:25:44,915 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-07 14:25:44,934 - INFO - DocClient created successfully
+2024-06-07 14:25:44,934 - INFO - Calling process() method
+2024-06-07 14:25:49,788 - INFO - Process completed successfully
+2024-06-07 14:25:49,788 - INFO - JSON structure reformatted successfully
+2024-06-07 14:25:49,788 - INFO - Results written to /tmp/ocr_output/batch_1717788344601/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-07 14:25:49,788 - INFO - DocClient closed successfully
+2024-06-07 16:55:42,370 - INFO - Processing file: /tmp/50e4c54bd532d696ffb8688dd7de73ac.pdf
+2024-06-07 16:55:42,371 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-07 16:55:42,382 - INFO - DocClient created successfully
+2024-06-07 16:55:42,383 - INFO - Calling process() method
+2024-06-07 16:55:45,712 - INFO - Process completed successfully
+2024-06-07 16:55:45,712 - INFO - JSON structure reformatted successfully
+2024-06-07 16:55:45,712 - INFO - Results written to /tmp/ocr_output/batch_1717797342179/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-07 16:55:45,712 - INFO - DocClient closed successfully
+2024-06-07 17:17:37,602 - INFO - Processing file: /tmp/e60219b4b24ac3b18e67d2dd6a58401c.pdf
+2024-06-07 17:17:37,603 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-07 17:17:37,615 - INFO - DocClient created successfully
+2024-06-07 17:17:37,615 - INFO - Calling process() method
+2024-06-07 17:17:40,954 - INFO - Process completed successfully
+2024-06-07 17:17:40,954 - INFO - JSON structure reformatted successfully
+2024-06-07 17:17:40,954 - INFO - Results written to /tmp/ocr_output/batch_1717798657279/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged) (dragged).pdf.json
+2024-06-07 17:17:40,955 - INFO - DocClient closed successfully
+2024-06-07 17:18:51,652 - INFO - Processing file: /tmp/c95cc8e6e3b944d625dfffe024e1cc78.pdf
+2024-06-07 17:18:51,653 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-07 17:18:51,664 - INFO - DocClient created successfully
+2024-06-07 17:18:51,664 - INFO - Calling process() method
+2024-06-07 17:19:03,160 - INFO - Process completed successfully
+2024-06-07 17:19:03,160 - INFO - JSON structure reformatted successfully
+2024-06-07 17:19:03,160 - INFO - Results written to /tmp/ocr_output/batch_1717798731441/2017-07-31 Bias Comm118_part_3_Redacted (dragged) (dragged).pdf.json
+2024-06-07 17:19:03,160 - INFO - DocClient closed successfully
+2024-06-07 17:20:16,324 - INFO - Processing file: /tmp/4410d3f3501834fd204408d8e147516c.pdf
+2024-06-07 17:20:16,325 - INFO - Azure endpoint: https://wrongful-convictions.cognitiveservices.azure.com/
+2024-06-07 17:20:16,336 - INFO - DocClient created successfully
+2024-06-07 17:20:16,336 - INFO - Calling process() method
+2024-06-07 17:20:21,933 - INFO - Process completed successfully
+2024-06-07 17:20:21,933 - INFO - JSON structure reformatted successfully
+2024-06-07 17:20:21,934 - INFO - Results written to /tmp/ocr_output/batch_1717798816095/J-7239-79 Supplemental Report recd 3-13-14_3pages (dragged) 2 (dragged) (dragged).pdf.json
+2024-06-07 17:20:21,934 - INFO - DocClient closed successfully

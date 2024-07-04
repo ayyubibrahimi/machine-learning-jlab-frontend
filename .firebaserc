@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "justice-lab-ai",
+    "staging": "justice-lab"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

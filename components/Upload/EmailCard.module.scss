@@ -1,0 +1,127 @@
+.emailCard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    transition: all 0.3s ease;
+    margin-bottom: 1rem;
+    color: #666;
+    background-color: #fff;
+  }
+  
+  .cardHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .cardTitle {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 0;
+  }
+  
+  .infoIcon {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .processingInfo {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+  
+  .optionIntro {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+  
+  .optionsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .option {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: #666;
+  }
+  
+  .option:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .selectedOption {
+    border-color: #007bff;
+    background-color: #e6f2ff;
+  }
+  
+  .option input {
+    margin-right: 0.5rem;
+  }
+  
+  .emailInputContainer {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5rem;
+    transition: all 0.2s ease;
+  }
+  
+  .emailIcon {
+    color: #666;
+    margin-right: 0.5rem;
+  }
+  
+  .emailInput {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: 0.9rem;
+    color: #666;
+    background-color: transparent;
+  }
+  
+  .validationIcon {
+    margin-left: 0.5rem;
+  }
+  
+  .validEmail .validationIcon {
+    color: #28a745;
+  }
+  
+  .invalidEmail .validationIcon {
+    color: #dc3545;
+  }
+  
+  .validEmail {
+    border-color: #28a745;
+  }
+  
+  .invalidEmail {
+    border-color: #dc3545;
+  }
+  
+  @media (max-width: 768px) {
+    .emailCard {
+      padding: 0.75rem;
+    }
+  
+    .cardTitle {
+      font-size: 1rem;
+    }
+  
+    .option {
+      padding: 0.4rem;
+    }
+  }

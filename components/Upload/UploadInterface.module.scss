@@ -1,0 +1,803 @@
+.container {
+  display: fixed;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+  width: 100%; 
+}
+
+.contentContainer {
+  display: flex;
+  flex: 1;
+  position: relative;
+  z-index: 20;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.outputContainer {
+  flex: 1;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  overflow-y: auto;
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  margin-top: 1px;
+  height: calc(100vh - px);
+}
+
+
+
+
+.dropdownContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  gap: 10px;
+}
+
+
+.collapsibleButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  width: 100%;
+  margin-top: 30px;
+  position: fix;
+  box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+.collapsibleButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+
+.collapsibleContent {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  color: #100202;
+  font-weight: 200
+}
+
+
+.displayedContentArea {
+  width: 100%;
+}
+
+.pdfLinkButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+}
+
+.pdfLinkButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+.customTemplateSection {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  color: #888;
+  z-index: 11; /* Ensure it's on top of other content */
+}
+
+.customTemplateTextArea {
+  width: 100%; /* Fill the entire width of its container */
+  height: 80vh; /* Use 80% of the viewport height */
+  max-height: 600px; /* Set a maximum height */
+  min-height: 300px; /* Set a minimum height */
+  padding: 15px; /* Increase padding for better text visibility */
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border: 2px solid #888;
+  border-radius: 10px;
+  resize: vertical; /* Allow vertical resizing only */
+  color: #100202;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  margin: 0 auto; /* Center the textarea if it's not full width */
+  display: block; /* Ensure it's a block-level element */
+}
+
+/* Add a media query for smaller screens */
+@media (max-width: 768px) {
+  .customTemplateTextArea {
+    width: 100%; /* Full width on smaller screens */
+    height: 60vh; /* Slightly smaller height on mobile devices */
+    min-height: 200px; /* Smaller minimum height for mobile */
+  }
+}
+
+.customTemplateTextArea:focus {
+  outline: none;
+  border-color: #555;
+}
+
+.customTemplateSection label {
+  font-weight: normal;  /* Add this line */
+
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.toggleButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  margin-left: 1050px; /* Increase the margin-left value */
+  font-weight: normal;  /* Add this line */
+
+}
+
+
+.uploadButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  margin-left: 900px; /* Increase the margin-left value */
+  font-weight: normal;  /* Add this line */
+
+}
+
+.toggleButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+.activeToggleButton {
+  background-color: #888;
+  color: #fff;
+}
+
+.activeToggleButton:hover {
+  background-color: #555;
+  color: #fff;
+}
+.uploadButtonContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px; /* Adjust the spacing as needed */
+  width: 100%; /* Ensure it aligns with the dropdown buttons */
+}
+
+
+
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.optionsList {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.optionLabel {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-left: 10px; 
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  color: #100202;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.optionLabel:hover {
+  color: rgb(227, 223, 220)
+}
+
+.optionInput {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.optionText {
+  font-size: 16px;
+}
+
+.nextButton,
+.previousButton,
+.processButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  margin: 0 10px;
+}
+
+.nextButton:hover,
+.previousButton:hover,
+.processButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+.nextButton:disabled,
+.processButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.modalButtons {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.nextButton svg,
+.previousButton svg {
+  margin: 0 5px;
+}
+
+/* Custom scrollbar styles for better aesthetics */
+.modalStep::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modalStep::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.modalStep::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.modalStep::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.uploadInputContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  width: 100%;
+  max-width: 800px; /* Increased from 625px to accommodate larger summary input */
+  margin: 0 auto;
+  padding: 40px 60px;
+  position: fixed;
+  margin-top: 600px;
+  /* Removed border-radius, background, and box-shadow */
+}
+
+/* Removed ::before and ::after pseudo-elements that were creating the border and shadow */
+
+.fileInput {
+  display: none;
+}
+
+.uploadInputContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  max-width: 575px;
+  height: 75px;
+  margin: 0 auto;
+  padding: 0 20px;
+  border: 2px solid #CCCCCC;
+  border-radius: 10px;
+  background-color: transparent;
+  transition: all 0.3s ease;
+  position: fixed;
+  bottom: 40px;
+  left: 55%;
+  transform: translateX(-50%);
+}
+
+.summaryInput {
+  flex-grow: 1;
+  height: 100%;
+  padding: 0;
+  border: none;
+  font-size: 16px;
+  color: #333;
+  background-color: transparent;
+
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0);
+  }
+
+  &::placeholder {
+    color: #605b5b;
+  }
+}
+
+.fileInput {
+  display: none;
+}
+
+.fileInputLabel {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-left: 10px;
+}
+
+.fileInputLabel:hover {
+  background-color: #888;
+  color: white;
+}
+
+.uploadInputContainer:focus-within {
+  box-shadow: 0 0 0 3px rgba(204, 204, 204, 0.5);
+}
+
+/* ... (rest of the CSS remains the same) */
+
+.title {
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  background: linear-gradient(45deg, #888, #555);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50%;
+  margin-top: -14px; /* Half of the font size to center vertically */
+}
+
+.showUploadButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-weight: normal;
+  position: absolute;
+  right: 550px;
+  top: 40%;
+  transform: translateY(-50%);
+}
+
+.showUploadButton:hover {
+  background-color: #888;
+  color: white;
+}
+
+.aboutButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  width: auto;
+  font-weight: normal;
+  position: absolute;
+  right: -400px;
+  top: 30%;
+  transform: translateY(-50%);
+}
+
+.aboutButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+
+.headerSection {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  position: fixed;
+  height: 60px; /* Adjust as needed to accommodate the elements */
+}
+
+
+.headerDivider {
+  border: 0;
+  height: 2px;  /* Increased from 1px to 3px */
+  background-color: #e0e0e0; /* Updated to match the headerDivider line color */
+  margin-top: 70px;
+  width: 100%;
+  position: fixed;
+}
+
+.logoAndButton {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  outline: none;
+  width: 80%;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalCloseButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.modalCloseButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+.modalContent {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.processingModal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 35px;  // Slightly increased from 30px
+  border-radius: 18px;  // Slightly increased from 15px
+  outline: none;
+  width: 600px;  // Increased from 500px
+  height: 550px;  // Increased from 400px
+  overflow: hidden;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);  // Slightly enhanced shadow
+}
+
+.processingModalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.processingModalCloseButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #888;
+  transition: color 0.3s;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.processingModalCloseButton:hover {
+  color: #555;
+}
+
+
+
+.modalTitle {
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #888;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.modalStep {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  overflow-y: auto; /* Allow vertical scrolling if content overflows */
+  padding-right: 10px; /* Add some padding for the scrollbar */
+}
+
+
+.errorModalButton {
+  background: none;
+  border: 2px solid #333; /* Adjust the border color as needed */
+  border-radius: 50%; /* Makes the button circular */
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  cursor: pointer;
+  padding: 5px; /* Adjust the padding to control the size of the circle */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px; /* Adjust the width to make the button smaller */
+  height: 30px; /* Adjust the height to make the button smaller */
+}
+
+.errorModalButton svg {
+  color: #333;
+  width: 20px; /* Adjust the size of the icon */
+  height: 20px; /* Adjust the size of the icon */
+}
+
+.emailOptionLabel {
+  display: flex;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.emailCard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  transition: all 0.3s ease;
+  margin-bottom: 1rem;
+}
+
+.emailCard:hover {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.cardTitle {
+  font-size: 1.2rem;
+  color: #333;
+  margin: 0;
+}
+
+.infoIcon {
+  color: #007bff;
+  cursor: pointer;
+}
+
+.optionsContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.option:hover {
+  background-color: #f0f0f0;
+}
+
+.selectedOption {
+  border-color: #007bff;
+  background-color: #e6f2ff;
+}
+
+.option input {
+  margin-right: 0.5rem;
+}
+
+
+.optionsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.optionCard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.optionCard:hover {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.selectedCard {
+  border-color: #007bff;
+  background-color: #e6f2ff;
+}
+
+.optionTitle {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #666;
+}
+
+.optionDescription {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Updated styles for script options in a horizontal layout */
+.scriptOptionsContainer {
+  margin-top: 27rem;
+  margin-right: 5rem;
+  margin-bottom: 1rem;
+  overflow-x: auto; /* Allow horizontal scrolling if needed */
+}
+
+.scriptOptionsRow {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  padding-bottom: 0.5rem; /* Add some padding for scrollbar */
+}
+
+.scriptOptionCard {
+  flex: 0 0 auto; /* Prevent cards from shrinking */
+  width: 200px; /* Set a fixed width for each card */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.scriptOptionCard:hover {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.scriptOptionTitle {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  color: #666;
+}
+
+.scriptOptionDescription {
+  font-size: 0.8rem;
+  color: #666;
+}

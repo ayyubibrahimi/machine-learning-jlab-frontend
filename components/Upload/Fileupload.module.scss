@@ -1,0 +1,120 @@
+
+
+.uploadInputContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 60px;
+  position: relative;
+  border-radius: 200px 200px 0 0;
+  background: transparent;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+
+}
+
+.uploadInputContainer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 200px 200px 0 0;
+  border: 2px solid rgba(136, 136, 136, 0.5);
+  border-bottom: none;
+  pointer-events: none;
+}
+
+.uploadInputContainer::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2px;
+  background: linear-gradient(
+    to right,
+    rgba(136, 136, 136, 0) 0%,
+    rgba(136, 136, 136, 0.5) 10%,
+    rgba(136, 136, 136, 0.5) 90%,
+    rgba(136, 136, 136, 0) 100%
+  );
+}
+
+.fileInput {
+  display: none;
+}
+
+.summaryInput {
+  flex-grow: 3; // Increased from 1 to 3
+  min-width: 300px; // Added minimum width
+  max-width: 900px; // Added maximum width to prevent excessive stretching
+  height: 40px;
+  padding: 0 15px;
+  border: 2px solid #888;
+  border-radius: 20px;
+  font-size: 14px;
+  color: #333;
+  background-color: transparent;
+  transition: all 0.3s ease;
+
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(136, 136, 136, 0.5);
+  }
+
+  &::placeholder {
+    color: #888;
+  }
+}
+
+.fileInputLabel,
+.processButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.fileInputLabel:hover,
+.processButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+
+.fileInputLabel:focus,
+.processButton:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(136, 136, 136, 0.5);
+}
+
+.fileInputLabel svg,
+.processButton svg {
+  width: 24px;
+  height: 24px;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+.fileInputLabel:hover svg,
+.processButton:not(:disabled):hover svg {
+  animation: bounce 0.5s ease infinite;
+}

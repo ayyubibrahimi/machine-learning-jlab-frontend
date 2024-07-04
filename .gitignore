@@ -1,36 +1,48 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Idea files
+.idea/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-.yarn/install-state.gz
+# Environment files
+*.env
 
-# testing
-/coverage
+# Python cache files
+*__pycache__*
 
-# next.js
-/.next/
-/out/
+# Coverage files
+/.coveragemyenv
 
-# production
-/build
-
-# misc
+# macOS files
 .DS_Store
-*.pem
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Data files
+data/
+map/
+*.csv
+*.pdf
+*.json
+!vercel.json
+!package.json
+!package-lock.json
+.env.local
 
-# local env files
-.env*.local
+# Node.js dependencies
+node_modules/
 
-# vercel
+# Python virtual environment
+myenv/
+
+# Image files
+*.png
+
+# Next.js build output
+.next/
+
+# Firebase files
+.firebase/
+firebase-debug.log
+
+# Other files and directories to ignore
+tests/
+myenv/ 
+myenv copy/ 
+!.vercel
 .vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts

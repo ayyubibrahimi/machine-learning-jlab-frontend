@@ -1,0 +1,102 @@
+.container {
+  padding: 20px;
+  color: #000000;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+}
+
+.title, .subtitle {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 0; /* Remove top margin */
+  margin-bottom: 15px;
+}
+
+.modelTitle, .sectionTitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.dataUsageList, .bulletPoints, .modeList, .modelList {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+.dataUsageList li,
+.bulletPoints li,
+.modeList li,
+.modelList li {
+  margin-bottom: 10px;
+}
+
+.bulletPoints li, .modelList li {
+  list-style-type: disc;
+}
+
+.modeList li {
+  list-style-type: decimal;
+}
+
+.contact {
+  font-size: 14px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.contact a {
+  color: #007bff;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* New styles for tabs */
+.tabContainer {
+  display: flex;
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.tab {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: #555;
+}
+
+.tab:not(:last-child) {
+  margin-right: 10px;
+}
+
+.tab:hover {
+  color: #007bff;
+}
+
+.tab.active {
+  color: #007bff;
+  border-bottom: 2px solid #007bff;
+}
+
+.tabContent {
+  padding: 10px 0;
+  height: 400px; /* Set the desired fixed height */
+  overflow-y: auto; /* Add vertical scroll if content overflows */
+}

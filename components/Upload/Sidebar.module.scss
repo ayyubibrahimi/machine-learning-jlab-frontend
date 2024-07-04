@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+.sidebar {
+  flex: 0 0 15%;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  height: 100vh;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0);
+  position: relative;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  position: relative;  // Ensure positioning context for pseudo-element
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 2px;  // Adjust the width of the line as needed
+    background-color: #e0e0e0;  // Use the same color as the horizontal line for consistency
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 45px; /* Increased to accommodate the line */
+    font-size: 23px;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+    color: #888;
+    padding-bottom: 5px;
+    font-weight: normal;
+    position: relative;
+  }
+
+  h3::after {
+    content: '';
+    position: absolute;
+    left: -20px; /* Extend beyond left padding */
+    right: -20px; /* Extend beyond right padding */
+    bottom: -33.5px; /* Adjust as needed */
+    height: 2px;
+    background-color: #e0e0e0;
+  }
+
+  .savedResponsesContainer {
+    flex-grow: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+.saveResponseButton {
+  appearance: none;
+  background-color: transparent;
+  border: 2px solid #888;
+  color: #888;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+  border-radius: 20px;
+  width: auto;
+  font-weight: normal;
+  position: absolute;
+  right: 35px; /* Adjust this value to position it relative to the right side */
+  top: 50%;
+  transform: translateY(-50%);
+  margin-top: 315px; /* Remove the top margin */
+}
+
+.saveResponseButton:hover {
+  background-color: #F0F0F0;
+  color: #555;
+}
+  
+  .savedResponses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .savedResponse {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 100%;
+
+    .responseLabel {
+      display: block;
+      padding: 10px;
+      background-color: transparent;
+      border: 2px solid #888;
+      cursor: pointer;
+      font-size: 14px;
+      text-align: center;
+      transition: background-color 0.3s ease, color 0.3s ease;
+      font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+      color: #888;
+      width: 100%;
+      border-radius: 20px;
+
+      &:hover {
+        background-color: #F0F0F0;
+        color: #555;
+      }
+    }
+
+    .responseButtons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 5px;
+      width: 100%;
+
+      button {
+        padding: 5px 10px;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        font-size: 12px;
+        transition: color 0.3s ease;
+        font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+        color: #888;
+
+        &:hover {
+          color: #555;
+        }
+      }
+    }
+
+    .renameInput {
+      display: block;
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 5px;
+      font-size: 14px;
+      border: 1px solid #888;
+      transition: border-color 0.3s ease;
+      font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+      color: #888;
+      border-radius: 10px;
+
+      &:focus {
+        outline: none;
+        border-color: #555;
+      }
+    }
+
+    .renameButton {
+      display: block;
+      width: 100%;
+      padding: 8px;
+      background-color: #888;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.3s ease;
+      font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Ubuntu, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+      border-radius: 20px;
+
+      &:hover {
+        background-color: #555;
+      }
+    }
+  }
+
+  .sidebarFooter {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+  }
+}
